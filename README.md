@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="URL-DE-LA-IMAGEN" />
+</p>
+
 # 👋 Javier Cuenca Perez
 
 ### MSP / DevOps Lab • Infrastructure Automation • Self-Hosted Platforms
