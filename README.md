@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL-DE-LA-IMAGEN" />
+  <img src="[URL-DE-LA-IMAGEN](https://github.com/Harlock-code/Harlock-code/blob/main/banner_javi.png?raw=true)" />
 </p>
 
 # 👋 Javier Cuenca Perez
