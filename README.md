@@ -73,7 +73,7 @@ Modular services and applications.
 ---
 
 ### 🔹 DevOps Junior
-Modular services and applications.
+Repository focused on hands-on DevOps and Junior SysAdmin projects.
 
 ➡️ https://github.com/Harlock-code/msp-docker-apps
 
