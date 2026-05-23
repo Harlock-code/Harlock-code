@@ -8,11 +8,11 @@
 
 Linux | Docker | Ansible | Proxmox | Azure
 
-Actualmente estoy desarrollando un laboratorio MSP/DevOps orientado a automatización de infraestructura, despliegues declarativos e Infrastructure as Code utilizando tecnologías self-hosted y cloud.
+I am currently developing an MSP/DevOps laboratory focused on infrastructure automation, declarative deployments, and Infrastructure as Code using both self-hosted and cloud technologies.
 
 ---
 
-## 🚀 Tecnologías principales
+## 🚀 Main Technologies
 
 - 🐳 Docker / Docker Compose
 - ⚙️ Ansible
@@ -26,53 +26,53 @@ Actualmente estoy desarrollando un laboratorio MSP/DevOps orientado a automatiza
 
 ---
 
-## 🧩 Proyecto principal
+## 🧩 Main Project
 
 ### MSP / DevOps Modular Platform
 
-Plataforma modular basada en:
+Modular platform based on:
 - Infrastructure as Code
-- Automatización declarativa
-- Reverse Proxy automático
-- DNS dinámico
-- SSL wildcard interno
-- Integración automática de servicios
+- Declarative automation
+- Automatic Reverse Proxy
+- Dynamic DNS
+- Internal wildcard SSL
+- Automatic service integration
 
-Características actuales:
-- ✔ Deploy automático mediante Ansible
-- ✔ Gestión modular mediante YAML
-- ✔ Homepage dinámica
-- ✔ Proxy hosts automáticos
-- ✔ DNS automático
-- ✔ HTTPS integrado
-- ✔ Eliminación automática de servicios
+Current features:
+- ✔ Automatic deployment using Ansible
+- ✔ Modular management through YAML
+- ✔ Dynamic Homepage
+- ✔ Automatic proxy hosts
+- ✔ Automatic DNS
+- ✔ Integrated HTTPS
+- ✔ Automatic service removal
 
 ---
 
-## 📂 Repositorios principales
+## 📂 Main Repositories
 
 ### 🔹 MSP Ansible Automation
-Automatización de despliegues y configuración de clientes.
+Client deployment and configuration automation.
 
 ➡️ https://github.com/Harlock-code/msp-ansible-automation
 
 ---
 
 ### 🔹 MSP Docker Infrastructure
-Infraestructura base self-hosted.
+Self-hosted base infrastructure.
 
 ➡️ https://github.com/Harlock-code/msp-docker-infrastructure
 
 ---
 
 ### 🔹 MSP Docker Apps
-Servicios y aplicaciones modulares.
+Modular services and applications.
 
 ➡️ https://github.com/Harlock-code/msp-docker-apps
 
 ---
 
-## 📜 Certificaciones
+## 📜 Certifications
 
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
 - Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
@@ -82,17 +82,17 @@ Servicios y aplicaciones modulares.
 
 ---
 
-## 🎯 Objetivos actuales
+## 🎯 Current Goals
 
 - Terraform + Proxmox Automation
 - GitOps workflows
-- Observabilidad centralizada
+- Centralized observability
 - Multi-environment deployments
-- Automatización MSP avanzada
+- Advanced MSP automation
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 🔗 LinkedIn  
 www.linkedin.com/in/javier-cuenca-perez-81b820368
