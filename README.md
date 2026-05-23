@@ -72,10 +72,10 @@ Modular services and applications.
 
 ---
 
-### 🔹 DevOps Junior
+### 🔹 DevOps Junior Lab
 Repository focused on hands-on DevOps and Junior SysAdmin projects.
 
-➡️ https://github.com/Harlock-code/msp-docker-apps
+➡️ https://github.com/Harlock-code/devops-junior-lab
 
 ---
 
