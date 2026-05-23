@@ -72,6 +72,12 @@ Servicios y aplicaciones modulares.
 
 ---
 
+### 🔹 DevOps Junior Lab
+Repositorio enfocado en projectos juniors.
+➡️ https://github.com/Harlock-code/devops-junior-lab
+
+---
+
 ## 📜 Certificaciones
 
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
